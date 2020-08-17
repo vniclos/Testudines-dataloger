@@ -21,11 +21,9 @@ You can access to data by Phone, computer o tablet, the device give you a web en
 - vectorial interactive graph day
 - vectoria interative graph bya month
 - vectorial interactive graph by year
-
-
 ##
 ## Hardware
-
+![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/IMG_0281.JPG "dataloger access" )
 - 1 ESP32 DEVKIT V1
 - 1 NEO GPS 6M  (GPS)
 - DHT22 (Air temperature and humidity sensor)
@@ -33,6 +31,9 @@ _ Light sensor
 - Soil Humidity sensor
 - Soil temperature sensor
 - Sd card
+- Lipo battery
+- Lipo charger (by Solar pannel)
+- Solar pannel
 - 1 Power suply 5v 2a
 
 ## Software
