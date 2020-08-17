@@ -23,7 +23,7 @@ You can access to data by Phone, computer o tablet, the device give you a web en
 - vectorial interactive graph by year
 ##
 ## Hardware
-![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/IMG_0281.JPG "dataloger access" )
+![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/master/dataloguer_documentacion/61101117_2476235922409352_275601527328997376_o.jpg "dataloger hardware" )
 - 1 ESP32 DEVKIT V1
 - 1 NEO GPS 6M  (GPS)
 - DHT22 (Air temperature and humidity sensor)
