@@ -1,6 +1,6 @@
 # ESP32 wheather datalogoer
 
-![alt text](https://github.com/vniclos/GPS-ESP32-sample/blob/master/img/hardware.jpg "ESP32 GPS NEO 6M V2" )
+![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/IMG_0281.JPG "dataloger access" )
 ?raw=true
 ## Hardware
 
