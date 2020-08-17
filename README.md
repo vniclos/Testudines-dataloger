@@ -1,24 +1,7 @@
-# ESP32 wheather datalogoer
-
+# ESP32 wheather datalogger
+You can access to data by Phone, computer o tablet, the device give you a web enviroment for easy access to data, you can show data, graphics, config for connect to your wifi, or work as alone network when the device is  in wild field
 ![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/IMG_0281.JPG "dataloger access" )
 ?raw=true
-## Hardware
-
-- 1 ESP32 DEVKIT V1
-- 1 NEO GPS 6M  (GPS)
-- DHT22 (Air temperature and humidity sensor)
-_ Light sensor
-- Soil Humidity sensor
-- Soil temperature sensor
-- Sd card
-- 1 Power suply 5v 2a
-
-## Software
-- Visual Coede
-- Platformio
-- Libraries
-- HardwareSerial.h ( better results than "sofwareserial.h"
-
 
 ### You can get 
  User can access to dataloger by  webserver inside of device 
@@ -41,6 +24,24 @@ _ Light sensor
 
 
 ##
+## Hardware
+
+- 1 ESP32 DEVKIT V1
+- 1 NEO GPS 6M  (GPS)
+- DHT22 (Air temperature and humidity sensor)
+_ Light sensor
+- Soil Humidity sensor
+- Soil temperature sensor
+- Sd card
+- 1 Power suply 5v 2a
+
+## Software
+- Visual Coede
+- Platformio
+- Libraries
+- HardwareSerial.h ( better results than "sofwareserial.h"
+
+
 ```
 Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
 Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
