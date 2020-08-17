@@ -31,16 +31,18 @@ _ Light sensor
 - Soil Humidity sensor
 - Soil temperature sensor
 - Sd card
+- RTC Real time clock (Used becouse you can work in wild life without internet)
 - Lipo battery
 - Lipo charger (by Solar pannel)
 - Solar pannel
 - 1 Power suply 5v 2a
+- small bater for clock rtc
 
-## Software
+## Software develop tools used
 - Visual Coede
 - Platformio
 - Libraries
-- HardwareSerial.h ( better results than "sofwareserial.h"
+-- esp.dht
 
 
 ```
