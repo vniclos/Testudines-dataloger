@@ -44,12 +44,11 @@ _ Light sensor
 
 
 ```
-Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
-Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
-Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
-Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
-Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
-Location: 40.413200,-3.724031  Date/Time: 5/21/2019 15:09:44.00 Satellites: 7 Altitude: 673.90
+Id_Name;Id_Location;Id LocationGps;Date;Time;TempAir_min;TempAir_avg;TempAir_Max;TempSoil_Min;TempSoil_Avg;TempSoil_Max;TempSubsoil_Min;TempSubsoil_Avg;TempSubsoil_Max;HumidityAir_Min;HumidityAir_Avg;HumidityAir_Max;HumiditySoil_Min;HumiditySoil_Avg;HumiditySoil_Max;PreasureAirHpa_Min;PreasureAirHpa_Avg;PreasureAirHpa_Max;Lux_MinLux_Avg; Lux_Max;AltitudeByHpa;GpsAltitud;GpsLatiLong;_GpsDateTime;GpsSatellites
+No Name;No Location;0.0,0.0;2020/08/17;10:15;24.5;24.6;24.7;23.1;23.2;23.3;24.3;24.3;24.4;36;37;38;0;0;0;949;949;949;35;35;35;;;;
+Test location;Madrid, Spain;40.418517, -3.747857;2020/08/17;10:30;25.3;25.4;25.5;23.6;23.7;23.9;24.5;27.0;85.0;33;33;34;0;0;0;949;949;949;0;32;45;0;;;0
+Test location;Madrid, Spain;40.418517, -3.747857;2020/08/17;13:00;26.2;26.4;26.8;22.9;23.2;25.0;24.9;27.8;85.0;26;28;29;0;0;0;949;949;949;0;8746;19872;0;;2020/08/17 10:51:15:0;3
+
 ...
 ```
 
