@@ -1,6 +1,6 @@
 # ESP32 wheather datalogger
 
-![alt text](https://github.com/vniclos/Testudines-dataloger/Testudines-dataloger/dataloguer_documentacion/idea-dataloger.svg "dataloger access" )
+![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/5477b025615b389d4556aff6c3b8a1e8de2a36c8/dataloguer_documentacion/idea-dataloger.svg "dataloger tortoise wildlife" )
 You can access to data by Phone, computer o tablet, the device give you a web enviroment for easy access to data, you can show data, graphics, config for connect to your wifi, or work as alone network when the device is  in wild field
 ![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/IMG_0281.JPG "dataloger access" )
 ?raw=true
