@@ -1,5 +1,5 @@
 # Wheather testudines wildlife datalogger
-by Vicente Niclós
+by Vicente Niclós. www.testudines.org
 
 The objetive are study climate values in wildlife, just in his habitat or in your garden, the device can work in your home or laboratory powerd by plug and join to your wifi network, or work stand alone powered by solar panel, in this case the device automatic start as wifi access point. 
 
