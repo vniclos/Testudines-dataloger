@@ -1,6 +1,13 @@
 # ESP32 wheather datalogger
 The objetive are study climate values in wildlife, just in his habitat or in your garden, the device can work in your home or laboratory powerd by plug and join to your wifi network, or work stand alone powered by solar panel, in this case the device automatic start as wifi access point. 
 
+It will be better if i add this
+
+- Connectivity to G4 mobile network 
+- Send data by automatic by email each day
+- Send data to web service
+- Send data to MQTT servrer
+- ...
 
 ![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/8bc2f788723243d80b19a31c17c0ea811379fe02/dataloguer_documentacion/introducction%20datalogger%20idea.svg "dataloger tortoise wildlife" )
 
