@@ -42,7 +42,7 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 ##
 ## Hardware
 ![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/master/dataloguer_documentacion/61101117_2476235922409352_275601527328997376_o.jpg "dataloger hardware" )
-- 1 ESP32 DEVKIT V1
+- 1 ESP32  ESP32-WROVER  kit with SD CARD module
 - 1 NEO GPS 6M  (GPS)
 - 1 DHT22 (Air temperature and humidity sensor)
 - 1 DS3231 RTC Real time clock modulo with battery (Used becouse you can work in wild life without internet)
