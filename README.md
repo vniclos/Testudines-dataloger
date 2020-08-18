@@ -58,7 +58,7 @@ _ Light sensor
 
 ## wired
 
-![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/master/dataloguer_documentacion/58647097_2426435847389360_8775743681907916800_o.jpg "wired 
+![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/master/dataloguer_documentacion/58647097_2426435847389360_8775743681907916800_o.jpg "wired dataloger hardware" )
 ## Software develop tools used
 - Visual Coede
 - Platformio
