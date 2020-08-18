@@ -92,10 +92,9 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 
 
 
-##Configuration:
-You can config by web interace, 
+## Configuration:
+You can config all values by web interface, but if you want  change default values you need change this parameters on defines.h file
 
-If you want change default values you need change this parameters on defines.h file
 ``` c++
 // Default values for first start and
 // reset factory
