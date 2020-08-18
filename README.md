@@ -82,8 +82,7 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
   PIN_LDR           |      | 36     | LDR RESISTENCE (Light)
   // --------------------------------------
 
-``` c++
-
+```
 
 ## Software develop tools used
 - Visual Coede
@@ -92,7 +91,7 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 -- esp.dht
 
 
-```
+
 ##Configuration:
 You can config by web interace, 
 
