@@ -15,7 +15,7 @@ It will be better if i add this
 ![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/8bc2f788723243d80b19a31c17c0ea811379fe02/dataloguer_documentacion/introducction%20datalogger%20idea.svg "dataloger tortoise wildlife" )
 
 ### User interface
-You dont need install nothing to your phone, laptop or tablet, the dataloger has a small web for  acces to see or dowload historical data, show plot historical data, dowload, config....
+You dont need install nothing to your phone, laptop or tablet, the dataloger has a small web server, you can acces with your favorite device an his web explorer,  and you  access to see user interface, for dowload historical data, show plot historical data, dowload, config....
 
 
 ![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/IMG_0281.JPG "dataloger access" )
