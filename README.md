@@ -44,14 +44,16 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 ![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/master/dataloguer_documentacion/61101117_2476235922409352_275601527328997376_o.jpg "dataloger hardware" )
 - 1 ESP32 DEVKIT V1
 - 1 NEO GPS 6M  (GPS)
-- DHT22 (Air temperature and humidity sensor)
-_ Light sensor
-- Soil Humidity sensor
-- Soil temperature sensor
-- Sd card
+- 1 DHT22 (Air temperature and humidity sensor)
+- 1 BH1750
+- 1 LDR RESISTENCE
+- 2 DS18B20 Dallas temperature impermeable incapsulated
+- 1 captative Soil humidity sensor
+- 1 Lipo battery
+- 1 Lipo charger (by Solar pannel)
+- 1 Sd card
 - RTC Real time clock (Used becouse you can work in wild life without internet)
-- Lipo battery
-- Lipo charger (by Solar pannel)
+
 - Solar pannel
 - 1 Power suply 5v 2a
 - small bater for clock rtc
@@ -59,6 +61,28 @@ _ Light sensor
 ## wired
 
 ![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/master/dataloguer_documentacion/58647097_2426435847389360_8775743681907916800_o.jpg "wired dataloger hardware" )
+...
+  ---------------------------------------------
+  DEVICE              PIN  | ESP32  | NOTES
+  ------------------|------|--------|------
+  SD_               | D0   |  2     | SD CARD READER
+  SD_               | D1   |  4     |
+  SD_               | D2   | 12     |
+  SD_               | D3   | 13     |
+  SD_               | CLK  | 14     |
+  SD_               | CMD  | 15     |
+  GPS               | TX   | 16     | RX2
+  GPS               | RX   | 17     | TX2
+  I2C SDA           |      | 21     | DS3231 ,BMP180, BH1750
+  I2C SLC           |      | 22     | DS3231 ,  , BH1750
+  PIN_DHT           |      | 23     | SHT22
+  PIN_RESET_FACTORY |      | 34     | If presed on start
+  PIN_ONE_WIRE_BUS  |      | 32     | DS18B20 DallasTemperature
+  PIN_CAPTATIVESOIL |      | 35     | Soil humidity
+  PIN_LDR           |      | 36     | LDR RESISTENCE (Light)
+  // --------------------------------------
+
+...
 ## Software develop tools used
 - Visual Coede
 - Platformio
