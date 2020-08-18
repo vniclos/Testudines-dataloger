@@ -2,7 +2,7 @@
 The objetive are study climate values in wildlife, just in his habitat or in your garden, the device can work in your home or laboratory powerd by plug and join to your wifi network, or work stand alone powered by solar panel, in this case the device automatic start as wifi access point. 
 
 
-![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/5477b025615b389d4556aff6c3b8a1e8de2a36c8/dataloguer_documentacion/idea-dataloger.svg "dataloger tortoise wildlife" )
+![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/8bc2f788723243d80b19a31c17c0ea811379fe02/dataloguer_documentacion/introducction%20datalogger%20idea.svg "dataloger tortoise wildlife" )
 
 ### User interface
 You dont need install nothing to your phone, laptop or tablet, the dataloger has a small web for  acces to see or dowload historical data, show plot historical data, dowload, config....
