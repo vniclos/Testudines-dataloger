@@ -60,7 +60,7 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 
 ## wired
 
-![alt text](https://raw.githubusercontent.com/vniclos/Testudines-dataloger/master/dataloguer_documentacion/58647097_2426435847389360_8775743681907916800_o.jpg "wired dataloger hardware" )
+![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/wired%20ESP32%20PINS%20USSED_01.svg "wired dataloger hardware" )
 ...
   ---------------------------------------------
   DEVICE              PIN  | ESP32  | NOTES
