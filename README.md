@@ -61,7 +61,7 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 ## wired
 
 ![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/wired%20ESP32%20PINS%20USSED_01.svg "wired dataloger hardware" )
-...
+``` c++
   ---------------------------------------------
   DEVICE              PIN  | ESP32  | NOTES
   ------------------|------|--------|------
@@ -82,7 +82,9 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
   PIN_LDR           |      | 36     | LDR RESISTENCE (Light)
   // --------------------------------------
 
-...
+``` c++
+
+
 ## Software develop tools used
 - Visual Coede
 - Platformio
