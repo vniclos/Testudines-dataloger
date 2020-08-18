@@ -45,18 +45,18 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 - 1 ESP32 DEVKIT V1
 - 1 NEO GPS 6M  (GPS)
 - 1 DHT22 (Air temperature and humidity sensor)
-- 1 BH1750
-- 1 LDR RESISTENCE
-- 2 DS18B20 Dallas temperature impermeable incapsulated
-- 1 captative Soil humidity sensor
+- 1 DS3231 RTC Real time clock modulo with battery (Used becouse you can work in wild life without internet)
+- 1 BMP180 BMP180 LDRSensor de Módulo de Sensor Barométrico de la Presión Atmosférica para Arduino
+- 1 BH1750  LDR Digital Light Sensor 
+- 2 OneWire DS18B20 temperature sensor
+- 1 Capacitive Soil Moisture Sensor V1.2
 - 1 Lipo battery
 - 1 Lipo charger (by Solar pannel)
 - 1 Sd card
-- RTC Real time clock (Used becouse you can work in wild life without internet)
-
+- 1 Pololu 3.3V Step-Up/Step-Down Voltage Regulator S7V8F3
 - Solar pannel
-- 1 Power suply 5v 2a
-- small bater for clock rtc
+- 1 Power suply 5v 2a (Optional)
+
 
 ## wired
 
