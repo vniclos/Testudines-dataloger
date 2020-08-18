@@ -51,7 +51,7 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
 - 2 OneWire DS18B20 temperature sensor
 - 1 Capacitive Soil Moisture Sensor V1.2
 - 1 Lipo battery
-- 1 Lipo charger (by Solar pannel)
+- 1 TP4056 5v Lipo charger (for connect solar panel pannel to batery)
 - 1 Sd card
 - 1 Pololu 3.3V Step-Up/Step-Down Voltage Regulator S7V8F3
 - Solar pannel
@@ -71,8 +71,8 @@ You dont need install nothing to your phone, laptop or tablet, the dataloger has
   SD_               | D3   | 13     |
   SD_               | CLK  | 14     |
   SD_               | CMD  | 15     |
-  GPS               | TX   | 16     | RX2
-  GPS               | RX   | 17     | TX2
+  GPS               | TX   | 16     | RX2  GPS NEO-6M
+  GPS               | RX   | 17     | TX2 GPS NEO-6M
   I2C SDA           |      | 21     | DS3231 ,BMP180, BH1750
   I2C SLC           |      | 22     | DS3231 ,  , BH1750
   PIN_DHT           |      | 23     | SHT22
