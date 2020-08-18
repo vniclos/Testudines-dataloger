@@ -56,6 +56,9 @@ _ Light sensor
 - 1 Power suply 5v 2a
 - small bater for clock rtc
 
+## wired
+
+![alt text](https://github.com/vniclos/Testudines-dataloger/blob/master/dataloguer_documentacion/58647097_2426435847389360_8775743681907916800_o.jpg "dataloger 
 ## Software develop tools used
 - Visual Coede
 - Platformio
